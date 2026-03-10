@@ -4,4 +4,4 @@ Every thread is right-handed M3*0.5, which means you need to rotate it CLOCKWISE
 Follow the instruction below to complete your hotend.
 ## Level 0
 The order of the throat parts is THROAT2 - THROAT0 - THROAT1.<br>
-Screw THROAT2 and THROAT1 to THROAT0 by rotating them clockwise.
+To seal the throat tight, apply silicone seals on all threads.
