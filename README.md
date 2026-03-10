@@ -22,6 +22,7 @@ The disadvantages I experienced were:
 | Thermistor too weak | Easily clogs |
 | Replacement quite expensive | **PROPRIETARY** |
 
+<!--- Storyline scrapped 
 # From prorpietary nozzles to V6
 This story starts from a nice day of summer in 2025, where my Unicorn nozzle clogged for its 5th time.<br>
 It failed so badly I was certain I would trash the existing heatsink. But I somehow recovered it, used a spare hotend, and went on as usual.<br>
@@ -40,3 +41,4 @@ And they were all 0.4, which basically eliminates the [point of reinforced nozzl
 So I decided to adapt the V6 nozzle directly, but I hadn't had enough time to dig into this.<br>
 When I happened to take vacations, I realized I had more time, sitting on my chair to open my CAD.<br>
 I brought the needed models, mixed some features, and on February 5th of 2026, this hotend was born.
+--->
