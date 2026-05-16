@@ -1,5 +1,4 @@
-# This project has been superceded by DrHF-K1C
-If you want the Tz-V6, you can still use this hotend, but be aware it is easier to source a Dragon V6.
+# This project is in a total rework progress
 
 # TzV6-K1C V1.0
 <img width="354" height="426" alt="image" src="/assets/PICTURE_DUAL.png" /><br>
