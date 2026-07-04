@@ -21,7 +21,7 @@
 
 - Major thanks to Henlor for building the tough foundation for this experiment project. Take a look at what he did for the Creality K1.
 
-- My frame is made out of aluminum 5052, weighing down to 300 g. The stock frame measured about 1.5 kg. You can reduce it down to (theoretically) 15 % of the original weight.
+- My frame is made out of aluminum 6061, weighing down to 325 g. The stock frame measured about 1.5 kg. You can reduce it down to ~25% of the original weight.
 
 - This frame does NOT support the LiDAR sensor. You'll need to calibrate the filament yourself. 
 
