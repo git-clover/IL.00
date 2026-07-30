@@ -23,6 +23,8 @@
 
 - My frame is made out of aluminum 6061, weighing down to 325 g. The stock frame measured about 1.5 kg. You can reduce it down to ~25% of the original weight.
 
+- **PLEASE ORDER THE FRAME WITH ```>5 mm``` THICKNESS.** Otherwise it will immediately bend into a taco you didn't order from Chipotle.
+
 - This frame does NOT support the LiDAR sensor. You'll need to calibrate the filament yourself. 
 
 - I also provided the STEP file, so feel free to add your own fixes. I appreciate your work. When using without the load cells, you can fix the bed with four solid mounts.
